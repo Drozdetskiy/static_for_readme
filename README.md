@@ -1,0 +1,1 @@
+# static_for_readme
